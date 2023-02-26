@@ -1,0 +1,23 @@
+{
+  "name": "readme-creator",
+  "version": "1.0.0",
+  "description": "Creates professional README file from user's responses to prompts in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnyzio/readme-creator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnyzio/readme-creator/issues"
+  },
+  "homepage": "https://github.com/mnyzio/readme-creator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
