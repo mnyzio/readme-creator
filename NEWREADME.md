@@ -16,7 +16,6 @@ Application uses 'inquirer' npm package.
   - [Questions](#questions)
       - [GitHub](#github)
       - [e-mail](#e-mail)
-  - [Walkthrough Video](#walkthrough-video)
 
 ## Installation
 This application runs in Node.js only.
@@ -33,5 +32,4 @@ Mirek Nyzio
 #### e-mail
 [m.nyzio@outlook.com](m.nyzio@outlook.com)
 
-## Walkthrough Video
-[https://www.youtube.com/watch?v=9y40MD9Kt-A](https://www.youtube.com/watch?v=9y40MD9Kt-A)
+
